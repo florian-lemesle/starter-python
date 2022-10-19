@@ -22,3 +22,5 @@ def myDisplay(*args: list):
 
 
 myDisplay(5, 6)
+
+#j'ai loupé une journée entière pour des raisons personels, sur les 3 journées qu'on avait pour les jobs, je n'ai donc pas pu faire les job 22 et pour aller plus loin.
